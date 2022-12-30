@@ -1,2 +1,3 @@
-# SML-Assignments-2022
-Assignments done in Statistical Machine Learning. Implementation of some famous algorithms from scratch.
+# SML-2022
+Course Material for Statistical Machine Learning 2022 at IIITD.
+
